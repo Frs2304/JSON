@@ -1,6 +1,6 @@
 const jsonfile = require('jsonfile');
 const moment = require('moment');
-const simpleGit = require('simple-git');
+const simpleGit = require('simple-git')
 const FILE_PATH = 'C:\Users\Tushar Mishra\Json\Json\data.json'
 const DATE = moment().subtract(1,'d').format()
 const data = {
