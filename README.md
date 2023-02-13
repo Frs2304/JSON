@@ -1,1 +1,3 @@
 ## JSON
+
+JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is based on a subset of the JavaScript programming language and is used to transmit data between a server and a web application, as an alternative to XML. JSON data is represented as key-value pairs, similar to a dictionary in Python, or an object in JavaScript. The keys are strings, while the values can be strings, numbers, arrays, or other JSON objects. JSON is widely used for asynchronous browser/server communication, data storage, and data exchange formats in a variety of programming languages.
