@@ -6,6 +6,6 @@ JSON (JavaScript Object Notation) is a lightweight data interchange format that 
 
 To get started with JSON, you don't need to install anything. JSON is a format for encoding data structures, so all you need is a text editor or a tool that can generate and parse JSON.
 
-#Usage
+# Usage
 
 JSON is commonly used in web applications to transmit data between a server and a client. JSON data can be stored in a file with the .json extension, or it can be transmitted over the network as a string.
