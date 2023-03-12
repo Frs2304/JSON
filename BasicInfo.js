@@ -5,6 +5,7 @@ let jsonObj ={
     "field": "Computer Science"
 }
 console.log(jsonObj);
+// converting the Json object into string
 let myJsonStr = JSON.stringify(jsonObj);
 console.log(myJsonStr);
 
