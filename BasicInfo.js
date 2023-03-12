@@ -1,4 +1,4 @@
-let jsonObj ={
+let jsonObj = {
     "name": "Tushar Mishra",
     "Blog": "tusharmishra.dev",
     "study": "Engineering",
