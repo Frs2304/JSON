@@ -24,9 +24,11 @@ This repository contains a number of Terraform modules and examples that you can
     Use version control to track changes to your Terraform code.
     This will make it easier to collaborate with others and keep track of changes over time.
 
-    Use modules for reusable code. This will make it easier to manage your infrastructure and avoid duplicating code.
+    Use modules for reusable code.
+    This will make it easier to manage your infrastructure and avoid duplicating code.
 
-    Use variables to make your code more flexible. This will make it easier to configure your infrastructure for different environments.
+    Use variables to make your code more flexible.
+    This will make it easier to configure your infrastructure for different environments.
 
 ### Troubleshooting
 
