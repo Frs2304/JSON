@@ -11,13 +11,17 @@ To get started with Terraform, you will need to download and install the appropr
 This repository contains a number of Terraform modules and examples that you can use to learn how to manage infrastructure as code. Here are some examples of how to use the code:
 
     module-aws: This module contains Terraform code to create an AWS VPC, subnets, and EC2 instances.
-    To use this module, simply update the variables.tf file with your desired configuration and run terraform apply.
+    To use this module, simply update the variables.tf file with your desired configuration and run
+    terraform apply.
 
-    module-gcp: This module contains Terraform code to create a Google Cloud VPC, subnets, and Compute Engine instances.
-    To use this module, update the variables.tf file with your desired configuration and run terraform apply.
+    module-gcp: This module contains Terraform code to create a Google Cloud VPC, subnets,
+    and Compute Engine instances.
+    To use this module, update the variables.tf file with your desired configuration
+    and run terraform apply.
 
     example-aws-s3: This example shows how to use Terraform to create an S3 bucket in AWS.
-    To use this example, update the variables.tf file with your desired configuration and run terraform apply.
+    To use this example, update the variables.tf file with your desired configuration 
+    and run terraform apply.
 
 ### Best Practices
 
