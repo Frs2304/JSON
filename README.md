@@ -1,6 +1,6 @@
 # Terraform
 
-Welcome to my Terraform Playground repository! This is a space where you can experiment with Terraform and learn how to use it to manage infrastructure as code.
+Welcome to my Terraform Playground repository! This is a space where I experiment with Terraform and learn how to use it to manage infrastructure as code.
 
 ## Installation
 
